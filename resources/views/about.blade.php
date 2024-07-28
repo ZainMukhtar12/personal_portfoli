@@ -1,6 +1,4 @@
-@extends('layout.app')
 
-@section('content')
 <section class="ftco-about img ftco-section ftco-no-pb" id="about-section">
     <div class="container">
         <div class="row">
@@ -100,6 +98,5 @@
         </div>
     </div>
 </section>
-@endsection
 
 

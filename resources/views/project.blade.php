@@ -1,6 +1,4 @@
-@extends('layout.app')
 
-@section('content')
 <section class="ftco-section" id="project-section">
     <div class="container">
       <div class="row justify-content-center mb-5 pb-5">
@@ -74,5 +72,5 @@
     </div>
   </section>
 
-@endsection
+
 

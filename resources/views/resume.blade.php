@@ -1,6 +1,4 @@
-@extends('layout.app')
 
-@section('content')
 <section class="ftco-section ftco-no-pb" id="resume-section">
     <div class="container">
         <div class="row justify-content-center pb-5">
@@ -87,4 +85,3 @@
         </div>
     </div>
 </section>
-@endsection
