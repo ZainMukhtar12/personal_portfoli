@@ -126,11 +126,13 @@
 
 	      <div class="collapse navbar-collapse" id="ftco-nav">
 	        <ul class="navbar-nav nav ml-auto">
-	          <li class="nav-item"><a href="{{ route('home') }}" class="nav-link"><span>Home</span></a></li>
-	          <li class="nav-item"><a href="{{ route('about') }}" class="nav-link"><span>About</span></a></li>
-	          <li class="nav-item"><a href="{{ route('resume') }}" class="nav-link"><span>Resume</span></a></li>
-	          <li class="nav-item"><a href="{{ route('project') }}" class="nav-link"><span>Projects</span></a></li>
-	          <li class="nav-item"><a href="{{ route('contact') }}" class="nav-link"><span>Contact</span></a></li>
+
+
+              <li class="nav-item"><a href="#home-section" class="nav-link"><span>Home</span></a></li>
+	          <li class="nav-item"><a href="#about-section" class="nav-link"><span>About</span></a></li>
+	          <li class="nav-item"><a href="#resume-section" class="nav-link"><span>Resume</span></a></li>
+	          <li class="nav-item"><a href="#project-section" class="nav-link"><span>Projects</span></a></li>
+	          <li class="nav-item"><a href="#contact-section" class="nav-link"><span>Contact</span></a></li>
 	        </ul>
 	      </div>
 	    </div>

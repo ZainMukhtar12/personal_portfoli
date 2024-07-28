@@ -3,7 +3,7 @@
 @section('content')
     @include('home')
     @include('about')
-    @include('resume')
+     @include('resume')
     @include('contact')
     @include('project')
 @endsection
